@@ -24,3 +24,9 @@
 # 5- Color Detection
 
 > https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link
+
+
+<video width=“320” height=“240” controls> <source src=“https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link” type=“video/mp4”> </video>
+
+
+<iframe width=“560” height=“315” src=“https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
