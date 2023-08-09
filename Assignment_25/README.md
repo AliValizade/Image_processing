@@ -2,31 +2,25 @@
 
 # 1- Flower
 
-![Screen Shot](output/folower-output.jpg)
+![](output/folower-output.jpg)
 
 # 2- Lion
 
-![Screen Shot](output/lion-output.jpg)
+![](output/lion-output.jpg)
 
 # 3- Building
 
-![Screen Shot](output/building-1.jpg)
-![Screen Shot](output/building-2.jpg)
+![](output/building-1.jpg)
+![](output/building-2.jpg)
 
 # 4- Convolution
 
-![Screen Shot](output/image3.jpg)
-![Screen Shot](output/image5.jpg)
-![Screen Shot](output/image7.jpg)
-![Screen Shot](output/image15.jpg)
+![](output/image3.jpg)
+![](output/image5.jpg)
+![](output/image7.jpg)
+![](output/image15.jpg)
 
 
 # 5- Color Detection
 
-> https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link
-
-
-<video width=“320” height=“240” controls> <source src=“https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link” type=“video/mp4”> </video>
-
-
-<iframe width=“560” height=“315” src=“https://drive.google.com/file/d/1sYZ121uRbj1-0csg1aqxZ8MZx2fFsw0Y/view?usp=drive_link” frameborder=“0” allow=“accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture” allowfullscreen></iframe>
+> https://raw.githubusercontent.com/AliValizade/Image_processing/72f6fcbee1b23eda377e79d71b448adcd3ba96ac/Assignment_25/output/output-video.mp4
