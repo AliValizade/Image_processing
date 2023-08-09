@@ -23,7 +23,9 @@
 
 # 5- Color Detection
 
-![](https://raw.githubusercontent.com/AliValizade/Image_processing/72f6fcbee1b23eda377e79d71b448adcd3ba96ac/Assignment_25/output/output-video.mp4)
+https://raw.githubusercontent.com/AliValizade/Image_processing/72f6fcbee1b23eda377e79d71b448adcd3ba96ac/Assignment_25/output/output-video.mp4
+
+
 
 ![](output/black.JPG)
 ![](output/white.JPG)
