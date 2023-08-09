@@ -9,7 +9,7 @@ face_cascade = cv2.CascadeClassifier('files/haarcascade_frontalface_default.xml'
 eyes_detector = cv2.CascadeClassifier('files/haarcascade_eye.xml')
 lips_detector = cv2.CascadeClassifier('files/haarcascade_smile.xml')
 
-cap = cv2.VideoCapture('img/v3.mp4')
+cap = cv2.VideoCapture(0)
 
 # Define a function to overlay a sticker on an image
 def apply_sticker(img, sticker, x, y, w, h):
