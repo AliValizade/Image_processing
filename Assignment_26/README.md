@@ -9,12 +9,30 @@
 
 # 3- Contrast enhancer
 
-## Orginal image
+### Orginal image
 ![](input/original-statue.jpg)
-## Enhanced image
+### Enhanced image
 ![](output/enhanced_contrast_statue.jpg)
 
 # 4- Sudoku
 
 ![](output/cropped_sudoku.png)
 ![](output/download.png)
+
+---
+
+# Assignment 26    Part-2
+
+### Mnist
+![](output/mnist_numbers.PNG)
+![](output/numbers.JPG)
+
+### Snow
+
+![](output/snowfall.GIF)
+
+### Mr. Bean
+
+![](output/noised_Mr-Bean.PNG)
+![](output/rotated_img.PNG)
+
